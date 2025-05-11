@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/status-in%20development-yellow" alt="Status"></a>
+  <a href="#"><img src="https://img.shields.io/badge/status-complete-green" alt="Status"></a>
   <a href="#"><img src="https://img.shields.io/badge/license-MIT-brightgreen.svg" alt="License"></a>
 </p>
 
