@@ -42,11 +42,10 @@
 ## 🛠 Built With
 
 - **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: PHP  
-- **Database**: MySQL  
-- **Web Server**: Apache via XAMPP  
-- **IDE**: Visual Studio Code  
-- **Prototyping**: Figma  
+- **Backend**: ASP.NET (C#)  
+- **Database**: SQL Server  
+- **IDE**: Visual Studio 2022
+- **Framework**: .NET Framework
 
 ---
 
